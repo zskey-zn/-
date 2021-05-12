@@ -1,0 +1,58 @@
+Warhead（弹头）,W_SMILES,link
+3-indolylmethanamines,CC(N1)=C(C(C)NC)C2=C1C=CC=C2,CC(NC1=C2C=CC=C1)=C2C(N[R])[R]
+Acyloxymethylketone,CC(OCC(C)=O)=O,[R]C(OCC([R])=O)=O
+Aldehydic carbonyl,O=C(C)C,O=C([R])[H]
+Alkynyl,C#C,C#[R]
+Amino,CN,[R]N
+Azido,[N]=[N+]=[N-],[N-]=[N+]=N[R]
+Benzoquinone,C1=CC(=O)C=CC1=O,O=C(C([R])=C1)C([R])=C([R])C1=O
+Beta Lactam,O=C1CCN1,O=C1CC([R])N1[R]
+Beta-aminoketone,CC(CCN(C)C)=O,[R]C(CCN([R])[R])=O
+Bis(dialkylaminethiocarbonyl)disulfide,S=C(N(C)C)SSC(N(C)C)=S,S=C(SSC(N([R])[R])=S)N([R])[R]
+Boronic Acid,OB(C)O,OB(O)[R]
+Carbamate,C(=O)(N)[O-],O=C(O[R])N[R]
+Carbamoyl tetrazole,C1(=NNN=N1)C(=O)N,O=C(N1N=NN=C1[R])N([R])[R]
+Carbamoylsulfanyl,CNC(SC)=O,[R]NC(S[R])=O
+Carbonyl,CC(C)=O,[R]C([R])=O
+Carbonyl furan,CC1=C(C)C(C(C)=O)=CO1,[R]C1=C(C(C([R])=O)=CO1)[R]
+Cyclipostins,CC1=C(C)CCCP(O1)(OC)=O,[R]C1=C(CCCP(O1)(O[R])=O)[R]
+Cyclopropane,C1CC1,[R]C1CC1[R]
+Dialkynylimidazoles,CC1=C(C)N=C(C#CC)N1C#CC,[R]C1=C(N=C(N1C#C[R])C#C)[R]
+Diazirine,CC1(C)N=N1,[R]C1(N=N1)[R]
+Dimethylsulfoniumacetylamides,C[S+](CC(NC)=O)C,[R][S+]([R])CC(N[R])=O
+Disulfide,SS,[R]SS[R]
+Dithiocarbamate,C(=S)(N)[S-],S=C(S[R])N([R])[R]
+Epipolythiodioxopiperazine,C[C@@]12SS[C@@](N(C2=O)C)(C)C(N1C)=O,[R][C@]12SS[C@@]([R])(C(N2[R])=O)N([R])C1=O
+Epoxide,CC1C(C)O1,[R]C1C(O1)[R]
+Ester,COC(C)=O,[R]OC([R])=O
+Halohydrocarbon,CBr,[R]Br
+Hydroxamic,C(NO)=O,[R]C(NO)=O
+Imidazole-1-carboxamides,NC(N1C=CN=C1)=O,O=C(N1C=CN=C1)N[R]
+Inosinic acid,O=C1C(N=CN2)=C2N=CN1,O=C1C(N=CN2[R])=C2N=C([R])N1
+Isocoumarin,O=C1OC(O)=CC2=CC=CC=C21,O=C1OC(O[R])=CC2=CC=CC=C21
+Isothiocyanate,S=C=N,S=C=N[R]
+Ketoamide,O=C(C(N)=O)C,O=C(C(N[R])=O)C
+Lactone,CC1=CC(=O)OC2=C1C=C3C=C(OC3=C2C)C,O=C1OC([R])C1[R]
+Lapachone,CC(C(C1=CC=CC=C1)=O)=O,[R]C1=C(/C(CC(C1=O)=O)=C/C=C)[R]
+Michael Acceptor,C=CC(C)=O,C=CC([R])=O
+Nitrile,C#N,[R]C#N
+Nitroalkenes,O=[N+]([O-])/C=C/C,O=[N+](/C=C/[R])[O-]
+O-Benzylguanine,CC1=CC=C(COC2=NC(N)=NC3=C2NC=N3)C=C1,NC(N=C1OCC2=CC=C([R])C=C2)=NC3=C1NC=N3
+Oxadiazole,C1=CON=N1,O=C1OC([R])=NN1[R]
+Oxime,CO/N=C\C,[R]O/N=C\[R]
+Oxime ester,O=C(C)O/N=C/C,O=C(O/N=C/[R])[R]
+Phosphonate,O=P(Cl)O,O=P([R])(Cl)O[R]
+Pyridylsulfone,O=S(C1=NC=C(C(F)(F)F)C=C1)=O,O=S(C1=NC=C(C(F)(F)F)C=C1)([R])=O
+Pyrrolidinyl-acetylenic,CC#C[C@H]1NCCC1,[R]C#C[C@H]1NCC([R])C1
+S-allenylthio,C=C=CSC,C=C=CS[R]
+S-propynylthio,CSCC#C,[R]SCC#C
+Sulfamoyl,O=S(OC)(N)=O,O=S(O[R])(N)=O
+Sulfide,CSC,[R]S[R]
+Sulfonyl Fluoride,O=S(=O)F,O=S(F)([R])=O
+Tetrahydropyridine,C1CC=CNC1,[R]N1C=CCCC1
+Thiosemicarbazone,[N]C([N])=S,[R]N([R])C(N([R])[R])=S
+Thiouracil,O=C1N=C(S)NC=C1,O=C1N=C(S)N([R])C([R])=C1
+Unsaturated Mannich Bases,C=CC(CCN(C)C)=O,C=CC(CCN([R])[R])=O
+Unsaturated amino,CN,[R]N
+Urea carbonyl,CN(C(N(C)C)=O)C,[R]N([R])C(N([R])[R])=O
+Vinylsulfone,O=S(C=C)(C)=O,O=S(/C=C/[R])(C[R])=O
